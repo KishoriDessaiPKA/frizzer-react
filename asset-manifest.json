@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frizzer-react/static/css/main.1a81d260.chunk.css",
+    "main.js": "/frizzer-react/static/js/main.ab121477.chunk.js",
+    "main.js.map": "/frizzer-react/static/js/main.ab121477.chunk.js.map",
+    "runtime-main.js": "/frizzer-react/static/js/runtime-main.38a8bbbf.js",
+    "runtime-main.js.map": "/frizzer-react/static/js/runtime-main.38a8bbbf.js.map",
+    "static/js/2.ea5ccd9f.chunk.js": "/frizzer-react/static/js/2.ea5ccd9f.chunk.js",
+    "static/js/2.ea5ccd9f.chunk.js.map": "/frizzer-react/static/js/2.ea5ccd9f.chunk.js.map",
+    "index.html": "/frizzer-react/index.html",
+    "static/css/main.1a81d260.chunk.css.map": "/frizzer-react/static/css/main.1a81d260.chunk.css.map",
+    "static/js/2.ea5ccd9f.chunk.js.LICENSE.txt": "/frizzer-react/static/js/2.ea5ccd9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a8bbbf.js",
+    "static/js/2.ea5ccd9f.chunk.js",
+    "static/css/main.1a81d260.chunk.css",
+    "static/js/main.ab121477.chunk.js"
+  ]
+}
